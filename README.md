@@ -2,17 +2,16 @@
 
 ### Hi I am Abishek. Welcome to my Github Profile.
 
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=Ab1-sh3k&theme=blue-green)]
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?Ab1-sh3k={username}&theme=blue-green)]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ab1-sh3k&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab1-sh3k&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
 
 ### Working Environment
 
-[[!Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-### If you wanna contact me feel me to message me in any of the platform:
+### If you wanna contact me feel free to message me:
 
-<a href="abhishek.sapkota2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://t.me/Pr1nceZuko"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 
 Here are some langauges and tools I know and use:
